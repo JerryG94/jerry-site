@@ -14,7 +14,7 @@ const Footer = memo(function Footer() {
           © {currentYear} Jerry小站 · All rights reserved.
         </p>
         <p className="text-xs text-slate-400 dark:text-slate-500 flex items-center gap-1">
-          Made with <Heart size={11} className="text-red-400" /> by Senior Developer
+          Made with <Heart size={11} className="text-red-400" /> by JerryG9527
         </p>
       </div>
     </footer>
