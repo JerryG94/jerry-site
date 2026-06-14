@@ -99,7 +99,7 @@ export default function Navbar({
             className="flex items-center gap-1.5"
             whileHover={{ scale: 1.05 }}
           >
-            <img src="/assets/jerry-logo.png" alt="Jerry" className="w-8 h-8 object-contain" />
+            <img src={`${import.meta.env.BASE_URL}assets/jerry-logo.png`} alt="Jerry" className="w-8 h-8 object-contain" />
             <span className="hidden sm:block font-semibold text-base tracking-tight">
               Jerry小站
             </span>
