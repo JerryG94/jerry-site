@@ -1,0 +1,2552 @@
+[
+  {
+    "name": "iOS限免Mergeek",
+    "url": "https://mergeek.com/free/apps",
+    "description": "Mergeek社区聚合iOS App限免信息，每日更新免费与打折应用",
+    "tags": [
+      "iOS",
+      "限免",
+      "App优惠"
+    ],
+    "category1": "软件下载网站",
+    "category2": "iOS软件",
+    "id": "1"
+  },
+  {
+    "name": "反斗限免",
+    "url": "https://free.apprcn.com/category/ios/",
+    "description": "专业iOS限免应用追踪站，汇总每日AppStore免费应用资讯",
+    "tags": [
+      "iOS",
+      "免费App",
+      "限时优惠"
+    ],
+    "category1": "软件下载网站",
+    "category2": "iOS软件",
+    "id": "2"
+  },
+  {
+    "name": "iPA商店",
+    "url": "https://ipa.store/",
+    "description": "提供iOS IPA安装包资源下载，含大量正版应用的备用安装源",
+    "tags": [
+      "IPA",
+      "iOS安装包",
+      "应用商店"
+    ],
+    "category1": "软件下载网站",
+    "category2": "iOS软件",
+    "id": "3"
+  },
+  {
+    "name": "GoFans限免",
+    "url": "https://m.gofans.cn/",
+    "description": "Apple正版软件限免与优惠信息聚合平台，支持移动端浏览",
+    "tags": [
+      "限免",
+      "Apple",
+      "优惠活动"
+    ],
+    "category1": "软件下载网站",
+    "category2": "iOS软件",
+    "id": "4"
+  },
+  {
+    "name": "IPA在线签名",
+    "url": "https://sign.ipadump.com/#/home/esign?cType=a12",
+    "description": "在线IPA签名工具，无需越狱即可将IPA文件签名安装到iOS设备",
+    "tags": [
+      "IPA签名",
+      "免越狱",
+      "安装工具"
+    ],
+    "category1": "软件下载网站",
+    "category2": "iOS软件",
+    "id": "5"
+  },
+  {
+    "name": "RoutineHub快捷指令",
+    "url": "https://routinehub.co/",
+    "description": "苹果iOS快捷指令分享社区，提供数千种自动化快捷指令下载",
+    "tags": [
+      "快捷指令",
+      "自动化",
+      "效率工具"
+    ],
+    "category1": "软件下载网站",
+    "category2": "iOS软件",
+    "id": "6"
+  },
+  {
+    "name": "油小猴安装教程",
+    "url": "https://www.youxiaohou.com/zh-cn/crx.html",
+    "description": "详细讲解如何安装CRX浏览器扩展，适合各浏览器版本的安装指南",
+    "tags": [
+      "浏览器扩展",
+      "安装教程",
+      "CRX"
+    ],
+    "category1": "软件下载网站",
+    "category2": "浏览器插件",
+    "id": "7"
+  },
+  {
+    "name": "GFork油猴镜像",
+    "url": "https://home.greasyfork.org.cn/zh-hans",
+    "description": "Greasy Fork国内加速镜像站，提供用户脚本下载，访问更流畅",
+    "tags": [
+      "油猴脚本",
+      "国内镜像",
+      "用户脚本"
+    ],
+    "category1": "软件下载网站",
+    "category2": "浏览器插件",
+    "id": "8"
+  },
+  {
+    "name": "插件小屋",
+    "url": "https://www.chajianxw.com/",
+    "description": "Chrome插件离线安装包下载站，支持CRX格式扩展离线安装",
+    "tags": [
+      "Chrome插件",
+      "离线安装",
+      "扩展下载"
+    ],
+    "category1": "软件下载网站",
+    "category2": "浏览器插件",
+    "id": "9"
+  },
+  {
+    "name": "找脚本",
+    "url": "https://www.zhaojiaoben.cn/",
+    "description": "专注于用户脚本搜索与分享，汇聚各类浏览器脚本资源",
+    "tags": [
+      "用户脚本",
+      "脚本搜索",
+      "油猴"
+    ],
+    "category1": "软件下载网站",
+    "category2": "浏览器插件",
+    "id": "10"
+  },
+  {
+    "name": "蓝鲨应用库",
+    "url": "https://www.lsapk.com/",
+    "description": "综合性Android APK下载站，提供大量第三方应用和工具下载",
+    "tags": [
+      "APK下载",
+      "安卓应用",
+      "软件库"
+    ],
+    "category1": "软件下载网站",
+    "category2": "PC与安卓软件",
+    "id": "11"
+  },
+  {
+    "name": "异星软件空间",
+    "url": "https://www.yxssp.com/",
+    "description": "专注分享精品软件与特色体验的独立软件站，资源丰富",
+    "tags": [
+      "精品软件",
+      "绿色应用",
+      "工具下载"
+    ],
+    "category1": "软件下载网站",
+    "category2": "PC与安卓软件",
+    "id": "12"
+  },
+  {
+    "name": "吾爱破解",
+    "url": "https://www.52pojie.cn/",
+    "description": "国内最大的软件破解与逆向分析社区，分享破解版软件与技术",
+    "tags": [
+      "破解软件",
+      "逆向分析",
+      "技术社区"
+    ],
+    "category1": "软件下载网站",
+    "category2": "PC与安卓软件",
+    "id": "13"
+  },
+  {
+    "name": "行书指南",
+    "url": "https://xszn.org/zh/",
+    "description": "免费和开源软件列表汇总站，为用户推荐优质开源替代品",
+    "tags": [
+      "开源软件",
+      "免费替代",
+      "软件推荐"
+    ],
+    "category1": "软件下载网站",
+    "category2": "PC与安卓软件",
+    "id": "14"
+  },
+  {
+    "name": "软仓",
+    "url": "https://www.ruancang.net/",
+    "description": "提供Adobe、CAD等专业设计软件的破解版下载，含详细安装教程",
+    "tags": [
+      "Adobe破解",
+      "专业软件",
+      "设计软件"
+    ],
+    "category1": "软件下载网站",
+    "category2": "PC与安卓软件",
+    "id": "15"
+  },
+  {
+    "name": "夸克安卓软件库",
+    "url": "https://pan.quark.cn/s/27b761f0bd04#/list/share",
+    "description": "夸克网盘共享的安卓软件库，持续更新各类安卓应用资源",
+    "tags": [
+      "安卓软件",
+      "夸克网盘",
+      "持续更新"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "软件资源",
+    "id": "16"
+  },
+  {
+    "name": "夸克电脑软件库",
+    "url": "https://pan.quark.cn/s/53f4b769b034#/list/share",
+    "description": "夸克网盘共享的Windows电脑软件库，含各类常用软件",
+    "tags": [
+      "电脑软件",
+      "夸克网盘",
+      "Windows"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "软件资源",
+    "id": "17"
+  },
+  {
+    "name": "蓝奏GG网盘",
+    "url": "https://ypziyuanshare.lanzoul.com/b0epegxzi",
+    "description": "蓝奏云GG网盘资源分享合集，含常用绿色软件资源",
+    "tags": [
+      "蓝奏云",
+      "网盘分享",
+      "软件合集"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "软件资源",
+    "id": "18"
+  },
+  {
+    "name": "未知影视搜索",
+    "url": "https://projext.run/",
+    "description": "聚合搜索全网影视资源，在线播放，无广告秒加载的影视搜索引擎",
+    "tags": [
+      "聚合搜索",
+      "无广告",
+      "在线播放"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "19"
+  },
+  {
+    "name": "Moovie影牛",
+    "url": "https://moovie.c2v2.com/",
+    "description": "电影发现与推荐平台，帮助用户找到下一部想看的好电影",
+    "tags": [
+      "电影推荐",
+      "发现好片",
+      "选片助手"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "20"
+  },
+  {
+    "name": "小狐搜搜",
+    "url": "https://uuyue.top/",
+    "description": "影视网盘资源搜索平台，一键检索电影电视剧番剧短剧资源",
+    "tags": [
+      "网盘搜索",
+      "影视资源",
+      "聚合检索"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "网盘搜索",
+    "id": "21"
+  },
+  {
+    "name": "XCloud影视",
+    "url": "https://www.xcloudv.top/",
+    "description": "提供VIP视频解析与在线观看服务的综合影视站",
+    "tags": [
+      "VIP解析",
+      "在线观看",
+      "影视站"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "22"
+  },
+  {
+    "name": "M3U8在线播放",
+    "url": "https://m3u8-player.net/zh/",
+    "description": "支持M3U8格式的在线播放器，可下载转换为MP4格式",
+    "tags": [
+      "M3U8播放",
+      "视频转换",
+      "在线工具"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "23"
+  },
+  {
+    "name": "全能VIP解析",
+    "url": "https://tool.liumingye.cn/video/",
+    "description": "刘明野工具箱提供的全能VIP视频在线解析工具，支持多平台",
+    "tags": [
+      "VIP解析",
+      "免费观看",
+      "多平台"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "24"
+  },
+  {
+    "name": "星河影视",
+    "url": "https://www.xinghetv.cc/",
+    "description": "免费在线观看电影电视剧动漫综艺，高清无广告，海量弹幕",
+    "tags": [
+      "免费观看",
+      "高清无广告",
+      "弹幕"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "25"
+  },
+  {
+    "name": "爱壹帆",
+    "url": "https://www.iyf.lv/",
+    "description": "海量高清视频免费在线观看平台，内容丰富无需登录",
+    "tags": [
+      "在线影视",
+      "电影",
+      "剧集",
+      "综艺",
+      "动漫"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "26"
+  },
+  {
+    "name": "泥视频",
+    "url": "https://www.nivod.vip/",
+    "description": "海外华人在线影院，收录大量中文影视内容，适合海外用户",
+    "tags": [
+      "海外华人",
+      "在线影院",
+      "中文影视"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "27"
+  },
+  {
+    "name": "光速影视",
+    "url": "https://www.4kzaixian.top/",
+    "description": "4K高清在线影视平台，提供电影电视剧流畅在线观看",
+    "tags": [
+      "4K高清",
+      "在线影视",
+      "流畅播放"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "28"
+  },
+  {
+    "name": "A控屋恐怖站",
+    "url": "https://akongwu.com/",
+    "description": "专注恐怖惊悚类电影分享的垂直站点，为恐怖片爱好者服务",
+    "tags": [
+      "恐怖电影",
+      "惊悚影视",
+      "垂直站点"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "29"
+  },
+  {
+    "name": "港剧天堂",
+    "url": "https://www.gjtt.net/",
+    "description": "专注经典怀旧港剧资源收录，粤语原版港片港剧在线观看",
+    "tags": [
+      "港剧",
+      "粤语",
+      "怀旧经典"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "30"
+  },
+  {
+    "name": "AGE动漫",
+    "url": "https://m.agedm.io/#/",
+    "description": "专业动漫在线观看平台，提供大量国内外动漫高清资源",
+    "tags": [
+      "日本动漫",
+      "国产动漫",
+      "番剧"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线动漫",
+    "id": "31"
+  },
+  {
+    "name": "AcFun弹幕",
+    "url": "https://m.acfun.cn/",
+    "description": "A站弹幕视频网站，有大量ACG相关内容与弹幕互动功能",
+    "tags": [
+      "弹幕视频",
+      "ACG",
+      "互动社区"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线动漫",
+    "id": "32"
+  },
+  {
+    "name": "OmoFun动漫",
+    "url": "https://fb.omoo.tv/",
+    "description": "高质量动漫在线观看站，提供多种字幕版本与清晰度选择",
+    "tags": [
+      "动漫字幕",
+      "高清番剧",
+      "在线观看"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线动漫",
+    "id": "33"
+  },
+  {
+    "name": "次元城动画",
+    "url": "https://www.cycani.org/",
+    "description": "海量蓝光番剧免费观看站，专注二次元动画资源收录",
+    "tags": [
+      "蓝光番剧",
+      "免费观看",
+      "二次元"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线动漫",
+    "id": "34"
+  },
+  {
+    "name": "饭团动漫",
+    "url": "https://fantuantv.com/",
+    "description": "ACG综合平台，提供动漫、漫画等二次元内容在线观看",
+    "tags": [
+      "ACG平台",
+      "动漫漫画",
+      "二次元"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线动漫",
+    "id": "35"
+  },
+  {
+    "name": "央视片库",
+    "url": "https://tv.cctv.com/yxg/index.shtml#datacid=jlp",
+    "description": "CCTV官方纪录片库，收录中央电视台出品的经典纪录片资源",
+    "tags": [
+      "央视纪录片",
+      "官方资源",
+      "CCTV"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "36"
+  },
+  {
+    "name": "中国纪录片网",
+    "url": "http://www.docuchina.cn/",
+    "description": "国家级纪录片新媒体综合运营平台，汇聚国产纪录片资源",
+    "tags": [
+      "国产纪录片",
+      "官方平台",
+      "文化纪录"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "37"
+  },
+  {
+    "name": "每天一小时纪录片",
+    "url": "https://www.onehourlife.com/",
+    "description": "精选必看纪录片下载推荐站，经典纪录片收藏与推荐",
+    "tags": [
+      "纪录片下载",
+      "经典推荐",
+      "精品收藏"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "38"
+  },
+  {
+    "name": "公开课纪录片下载",
+    "url": "https://opclass.com/",
+    "description": "提供公开课与纪录片下载服务，适合学习与研究使用",
+    "tags": [
+      "公开课",
+      "纪录片下载",
+      "学习资源"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视资源",
+    "id": "39"
+  },
+  {
+    "name": "短剧资源网",
+    "url": "https://www.djzyw.com/",
+    "description": "收录最新热门短剧的资源站，提供夸克/百度网盘短剧资源",
+    "tags": [
+      "短剧下载",
+      "网盘资源",
+      "热门短剧"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "影视资源",
+    "id": "40"
+  },
+  {
+    "name": "短剧库",
+    "url": "https://so.duanjuku.top/",
+    "description": "天天短剧聚合平台，短剧搜索与网盘链接一键获取",
+    "tags": [
+      "短剧搜索",
+      "聚合平台",
+      "一键获取"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "影视资源",
+    "id": "41"
+  },
+  {
+    "name": "柠檬体育直播",
+    "url": "https://ningmengzhibo.tv/",
+    "description": "提供NBA、英超、足球等体育赛事高清直播服务",
+    "tags": [
+      "体育直播",
+      "NBA直播",
+      "足球直播"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线直播",
+    "id": "42"
+  },
+  {
+    "name": "说球帝直播",
+    "url": "https://jzbh2r6t.jskaba.com/",
+    "description": "说球帝体育直播平台，24小时实时直播足球篮球五大联赛",
+    "tags": [
+      "体育直播",
+      "篮球足球",
+      "实时直播"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线直播",
+    "id": "43"
+  },
+  {
+    "name": "云听电台",
+    "url": "https://www.radio.cn/pc-portal/erji/radioStation.html",
+    "description": "央广网官方声音平台，提供全国电台直播与回听、相声评书等",
+    "tags": [
+      "电台直播",
+      "评书相声",
+      "央广网"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线直播",
+    "id": "44"
+  },
+  {
+    "name": "502book小说搜索",
+    "url": "https://502book.com/",
+    "description": "免费小说搜索引擎，聚合多平台小说资源，一键搜索阅读",
+    "tags": [
+      "小说搜索",
+      "免费阅读",
+      "聚合搜索"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线小说",
+    "id": "45"
+  },
+  {
+    "name": "owllook小说搜索",
+    "url": "https://owlook.com.cn/",
+    "description": "网络小说搜索引擎，简洁清新的搜索与阅读体验",
+    "tags": [
+      "小说搜索",
+      "阅读体验",
+      "清新界面"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线小说",
+    "id": "46"
+  },
+  {
+    "name": "顶点小说",
+    "url": "https://m.blqvdu.cc/",
+    "description": "无弹窗无广告小说在线阅读平台，海量网络小说免费阅读",
+    "tags": [
+      "无广告",
+      "免费阅读",
+      "网络小说"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线小说",
+    "id": "47"
+  },
+  {
+    "name": "1Music高品质",
+    "url": "https://1music.cc/zh-CN",
+    "description": "免费高品质音乐下载，支持FLAC/MP3格式，含WebDAV上传功能",
+    "tags": [
+      "无损音乐",
+      "FLAC下载",
+      "高品质"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "音乐下载",
+    "id": "48"
+  },
+  {
+    "name": "歌曲海",
+    "url": "https://www.gequhai.com/",
+    "description": "海量高品质MP3音乐免费下载站，一键搜索找好歌",
+    "tags": [
+      "MP3下载",
+      "免费音乐",
+      "高品质"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "音乐下载",
+    "id": "49"
+  },
+  {
+    "name": "铜钟音乐",
+    "url": "https://tonzhon.com/",
+    "description": "免费音乐下载平台，提供MP3歌曲高品质下载与在线试听",
+    "tags": [
+      "MP3下载",
+      "免费音乐",
+      "在线试听"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "音乐下载",
+    "id": "50"
+  },
+  {
+    "name": "Wandhi多站音乐",
+    "url": "https://music.wandhi.com/",
+    "description": "多站合一音乐搜索平台，聚合多个音乐平台在线试听",
+    "tags": [
+      "多站聚合",
+      "音乐搜索",
+      "在线试听"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "音乐下载",
+    "id": "51"
+  },
+  {
+    "name": "歌曲宝",
+    "url": "https://www.gequbao.com/",
+    "description": "MP3音乐高品质在线免费下载站，找歌就用歌曲宝",
+    "tags": [
+      "MP3下载",
+      "免费音乐",
+      "高品质"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "音乐下载",
+    "id": "52"
+  },
+  {
+    "name": "枫叶音乐盒",
+    "url": "https://mu-jie.cc/musicBox/#/",
+    "description": "在线音乐播放器，支持多平台音乐播放，界面简洁优雅",
+    "tags": [
+      "在线播放器",
+      "多平台音乐",
+      "简洁界面"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "音乐下载",
+    "id": "53"
+  },
+  {
+    "name": "搜漫搜索",
+    "url": "https://www.hisoman.com/",
+    "description": "在线漫画搜索引擎，聚合多平台漫画资源一键搜索",
+    "tags": [
+      "漫画搜索",
+      "聚合平台",
+      "在线阅读"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线漫画",
+    "id": "54"
+  },
+  {
+    "name": "COLAMANGA",
+    "url": "https://www.colamanga.com/",
+    "description": "提供优质漫画阅读体验的在线漫画平台，收录丰富漫画内容",
+    "tags": [
+      "漫画平台",
+      "优质体验",
+      "在线阅读"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线漫画",
+    "id": "55"
+  },
+  {
+    "name": "Dialogue动漫台词",
+    "url": "https://dialogue.moe/",
+    "description": "通过台词搜索原版动漫片段的工具，支持精准台词匹配",
+    "tags": [
+      "台词搜索",
+      "动漫片段",
+      "精准匹配"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视工具",
+    "id": "56"
+  },
+  {
+    "name": "33台词搜索",
+    "url": "https://33tc.net/",
+    "description": "电影台词搜索引擎，输入记忆中的台词找到对应电影场景",
+    "tags": [
+      "台词搜索",
+      "电影片段",
+      "场景定位"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "影视工具",
+    "id": "57"
+  },
+  {
+    "name": "Switch520游戏",
+    "url": "https://www.gamer520.com/",
+    "description": "Switch游戏下载站，提供大量NS游戏ROM资源免费下载",
+    "tags": [
+      "Switch游戏",
+      "NS游戏",
+      "游戏下载"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "58"
+  },
+  {
+    "name": "上游世界",
+    "url": "https://www.vgter.net/",
+    "description": "Switch/PS4等主机游戏下载平台，提供中文游戏资源",
+    "tags": [
+      "主机游戏",
+      "Switch",
+      "PS4游戏"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "59"
+  },
+  {
+    "name": "掌机迷GBA游戏",
+    "url": "https://www.gbarom.cn/",
+    "description": "专注中古掌机游戏网站，收录GBA/PSP/NDS等经典掌机ROM",
+    "tags": [
+      "GBA游戏",
+      "掌机ROM",
+      "经典游戏"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "60"
+  },
+  {
+    "name": "Free GOG游戏",
+    "url": "https://freegogpcgames.com/",
+    "description": "免费GOG PC游戏下载，提供无DRM限制的完整游戏资源",
+    "tags": [
+      "PC游戏",
+      "GOG游戏",
+      "无DRM"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "61"
+  },
+  {
+    "name": "小霸王在线游戏",
+    "url": "https://www.yikm.net/",
+    "description": "在线游玩FC红白机经典游戏，支持超级马里奥等经典NES游戏",
+    "tags": [
+      "FC游戏",
+      "在线游玩",
+      "经典红白机"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "62"
+  },
+  {
+    "name": "Poki在线游戏",
+    "url": "https://poki.com/zh",
+    "description": "免费在线小游戏平台，无需注册即可玩数千款网页游戏",
+    "tags": [
+      "在线小游戏",
+      "免费游戏",
+      "网页游戏"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "63"
+  },
+  {
+    "name": "汉兜汉字Wordle",
+    "url": "https://handle.antfu.me/",
+    "description": "汉字版Wordle猜词游戏，通过猜测四字成语来挑战汉语能力",
+    "tags": [
+      "益智游戏",
+      "汉字猜词",
+      "成语游戏"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "64"
+  },
+  {
+    "name": "在线打CS",
+    "url": "https://play-cs.com/",
+    "description": "在线玩CS经典射击游戏，无需安装，打开浏览器即可游玩",
+    "tags": [
+      "CS游戏",
+      "在线射击",
+      "免安装"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "65"
+  },
+  {
+    "name": "红色警戒在线版",
+    "url": "https://game.chronodivide.com/",
+    "description": "经典即时战略游戏红色警戒的网页在线版，无需下载安装",
+    "tags": [
+      "红色警戒",
+      "即时战略",
+      "在线游玩"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "66"
+  },
+  {
+    "name": "3DM游戏攻略",
+    "url": "https://m.3dmgame.com/gl/",
+    "description": "3DM提供的单机游戏攻略大全，覆盖主流PC游戏详细攻略",
+    "tags": [
+      "游戏攻略",
+      "单机游戏",
+      "3DM"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "游戏资源",
+    "id": "67"
+  },
+  {
+    "name": "ASMR第一站",
+    "url": "https://asmr1.com/",
+    "description": "ASMR内容导航站，收录全球ASMR创作者网址与资源",
+    "tags": [
+      "ASMR",
+      "助眠",
+      "内容导航"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "ASMR",
+    "id": "68"
+  },
+  {
+    "name": "英语音标学习",
+    "url": "https://www.yyybabc.com/",
+    "description": "英语48个音标免费学习平台，含音频示范与跟读练习功能",
+    "tags": [
+      "英语音标",
+      "发音学习",
+      "免费教程"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "外语学习",
+    "id": "69"
+  },
+  {
+    "name": "EngLearner英语导航",
+    "url": "https://www.englearner.site/cn/index.html",
+    "description": "英语学习工具导航网站，汇聚各类英语学习资源与工具",
+    "tags": [
+      "英语工具",
+      "学习导航",
+      "资源汇总"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "外语学习",
+    "id": "70"
+  },
+  {
+    "name": "新概念英语在线",
+    "url": "https://nce.luzhenhua.cn/",
+    "description": "新概念英语四册全收录，支持在线点读与跟读练习",
+    "tags": [
+      "新概念英语",
+      "点读跟读",
+      "英语学习"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "外语学习",
+    "id": "71"
+  },
+  {
+    "name": "巴别英语",
+    "url": "https://www.babelabc.com/",
+    "description": "通过看视频来学英语的沉浸式英语学习平台",
+    "tags": [
+      "视频学英语",
+      "沉浸式学习",
+      "英语教育"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "外语学习",
+    "id": "72"
+  },
+  {
+    "name": "Loecsen多语言",
+    "url": "https://www.loecsen.com/zh",
+    "description": "支持50种语言的免费在线语言学习平台，适合旅行者入门",
+    "tags": [
+      "多语言",
+      "语言学习",
+      "50种语言"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "外语学习",
+    "id": "73"
+  },
+  {
+    "name": "故宫数字文物库",
+    "url": "https://digicol.dpm.org.cn/",
+    "description": "故宫博物院官方数字文物库，在线浏览海量故宫珍藏文物",
+    "tags": [
+      "故宫文物",
+      "数字博物馆",
+      "历史文化"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "文化历史",
+    "id": "74"
+  },
+  {
+    "name": "识典古籍",
+    "url": "https://www.shidianguji.com/",
+    "description": "古籍在线阅读平台，提供中华经典典籍的数字化阅读服务",
+    "tags": [
+      "古籍阅读",
+      "数字典籍",
+      "中华经典"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "文化历史",
+    "id": "75"
+  },
+  {
+    "name": "全球纸币博物馆",
+    "url": "http://www.banknote.ws/",
+    "description": "收录全球各国纸币图片的在线博物馆，货币历史文化百科",
+    "tags": [
+      "钱币博物馆",
+      "纸币收藏",
+      "货币历史"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "文化历史",
+    "id": "76"
+  },
+  {
+    "name": "菜鸟教程",
+    "url": "https://www.runoob.com/",
+    "description": "国内最受欢迎的编程学习网站，提供Python/Java/前端等教程",
+    "tags": [
+      "编程教程",
+      "入门学习",
+      "多语言"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "编程开发",
+    "id": "77"
+  },
+  {
+    "name": "W3School教程",
+    "url": "https://www.w3school.com.cn/",
+    "description": "面向初学者的Web技术学习平台，HTML/CSS/JavaScript系统教程",
+    "tags": [
+      "Web开发",
+      "HTML教程",
+      "入门编程"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "编程开发",
+    "id": "78"
+  },
+  {
+    "name": "OfferNow编程求职",
+    "url": "https://offernow.cn/",
+    "description": "AI时代程序员进阶指南，提供编程学习与求职一体化平台",
+    "tags": [
+      "程序员求职",
+      "编程进阶",
+      "AI时代"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "编程开发",
+    "id": "79"
+  },
+  {
+    "name": "万方免费查重",
+    "url": "https://chsi.wanfangtech.net/",
+    "description": "万方数据提供的论文免费查重服务，应届生可免费使用一次",
+    "tags": [
+      "论文查重",
+      "万方数据",
+      "免费服务"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "学术科研",
+    "id": "80"
+  },
+  {
+    "name": "Sci-Hub镜像导航",
+    "url": "https://ifish.fun/paper/search?imyshare.com=friends",
+    "description": "Sci-Hub有效可用镜像地址实时更新，免费获取学术论文",
+    "tags": [
+      "SciHub",
+      "学术论文",
+      "免费下载"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "学术科研",
+    "id": "81"
+  },
+  {
+    "name": "谷歌学术镜像",
+    "url": "https://ac.ruanmao.net/",
+    "description": "谷歌学术国内镜像导航站，无需翻墙访问Google Scholar",
+    "tags": [
+      "谷歌学术",
+      "镜像导航",
+      "文献搜索"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "学术科研",
+    "id": "82"
+  },
+  {
+    "name": "Semantic Scholar",
+    "url": "https://www.semanticscholar.org/",
+    "description": "AI驱动的免费学术搜索引擎，覆盖2亿+学术论文的智能检索",
+    "tags": [
+      "AI学术搜索",
+      "免费论文",
+      "智能检索"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "学术科研",
+    "id": "83"
+  },
+  {
+    "name": "Z-Library电子书",
+    "url": "https://zh.ddd101.ru/",
+    "description": "全球最大电子书图书馆，免费访问数百万册电子书资源",
+    "tags": [
+      "电子书",
+      "免费图书馆",
+      "海量资源"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "电子书资源",
+    "id": "84"
+  },
+  {
+    "name": "鸠摩搜索",
+    "url": "https://www.jiumodiary.com/",
+    "description": "文档与电子书搜索引擎，聚合多平台电子书资源一键搜索",
+    "tags": [
+      "电子书搜索",
+      "文档搜索",
+      "聚合引擎"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "电子书资源",
+    "id": "85"
+  },
+  {
+    "name": "读书派",
+    "url": "https://www.dushupai.com/",
+    "description": "提供epub/azw3/mobi/pdf等多格式电子书免费下载服务",
+    "tags": [
+      "epub下载",
+      "多格式",
+      "电子书"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "电子书资源",
+    "id": "86"
+  },
+  {
+    "name": "中国哲学书数字化",
+    "url": "https://ctext.org/zhs",
+    "description": "中国哲学典籍电子化计划，提供中国历史典籍的在线阅读",
+    "tags": [
+      "哲学典籍",
+      "中华文化",
+      "在线阅读"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "电子书资源",
+    "id": "87"
+  },
+  {
+    "name": "牛客网面试题库",
+    "url": "https://www.nowcoder.com/exam/company",
+    "description": "提供各大公司笔试面试真题模拟题库，程序员求职必备平台",
+    "tags": [
+      "面试题库",
+      "笔试真题",
+      "求职备考"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "题库考试",
+    "id": "88"
+  },
+  {
+    "name": "雅思在线测试",
+    "url": "https://ieltsonlinetests.com/zh-hans/ielts-exam-library",
+    "description": "雅思真题免费在线测试平台，含完整题目与详细答案解析",
+    "tags": [
+      "雅思备考",
+      "真题练习",
+      "免费测试"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "题库考试",
+    "id": "89"
+  },
+  {
+    "name": "快打字在线练习",
+    "url": "https://www.kuaidazi.cn/",
+    "description": "专业在线打字课程与练习平台，帮助提升中英文打字速度",
+    "tags": [
+      "打字练习",
+      "速度提升",
+      "在线课程"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "在线练习",
+    "id": "90"
+  },
+  {
+    "name": "在线钢琴模拟器",
+    "url": "https://pianoonline.cc/",
+    "description": "免费学习钢琴的在线模拟器，支持88键全键盘练习",
+    "tags": [
+      "钢琴学习",
+      "在线模拟器",
+      "音乐教育"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "在线练习",
+    "id": "91"
+  },
+  {
+    "name": "编程运营夸克资料",
+    "url": "https://pan.quark.cn/s/4d37afe977d6#/list/share",
+    "description": "夸克网盘持续更新的编程开发/电商运营/自媒体运营学习资料库",
+    "tags": [
+      "学习资料",
+      "夸克网盘",
+      "持续更新"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "学习资料",
+    "id": "92"
+  },
+  {
+    "name": "考研考公题库资料",
+    "url": "https://pan.quark.cn/s/aa03bb3e3bd0#/list/share",
+    "description": "夸克网盘持续更新的考研/考公/考试/考证题库与资料库",
+    "tags": [
+      "考研资料",
+      "考公备考",
+      "题库资料"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "学习资料",
+    "id": "93"
+  },
+  {
+    "name": "PPT库模板",
+    "url": "https://pptku.org/",
+    "description": "海量免费高品质PPT模板下载，覆盖各行业课件资源",
+    "tags": [
+      "PPT模板",
+      "免费下载",
+      "课件资源"
+    ],
+    "category1": "设计素材模板",
+    "category2": "PPT模板",
+    "id": "94"
+  },
+  {
+    "name": "第一PPT",
+    "url": "https://m.1ppt.com/",
+    "description": "知名PPT模板下载网站，精美PPT模板免费下载与分享",
+    "tags": [
+      "PPT模板",
+      "免费下载",
+      "精美设计"
+    ],
+    "category1": "设计素材模板",
+    "category2": "PPT模板",
+    "id": "95"
+  },
+  {
+    "name": "优品PPT",
+    "url": "https://www.ypppt.com/",
+    "description": "精美免费PPT模板下载平台，提供高质量幻灯片设计模板",
+    "tags": [
+      "PPT模板",
+      "高质量",
+      "免费下载"
+    ],
+    "category1": "设计素材模板",
+    "category2": "PPT模板",
+    "id": "96"
+  },
+  {
+    "name": "飞职AI简历",
+    "url": "https://www.jianliai.com/",
+    "description": "AI驱动的在线简历生成工具，智能生成专业求职简历",
+    "tags": [
+      "AI简历",
+      "在线生成",
+      "求职工具"
+    ],
+    "category1": "设计素材模板",
+    "category2": "简历模板",
+    "id": "97"
+  },
+  {
+    "name": "魔方简历",
+    "url": "https://magicv.art/zh",
+    "description": "AI驱动的简历编辑器，提供专业简历设计与智能优化功能",
+    "tags": [
+      "AI简历",
+      "简历编辑",
+      "专业设计"
+    ],
+    "category1": "设计素材模板",
+    "category2": "简历模板",
+    "id": "98"
+  },
+  {
+    "name": "极简简历",
+    "url": "https://www.polebrief.com/index",
+    "description": "极简设计风格的在线简历制作工具，清爽专业的求职利器",
+    "tags": [
+      "极简简历",
+      "在线制作",
+      "专业设计"
+    ],
+    "category1": "设计素材模板",
+    "category2": "简历模板",
+    "id": "99"
+  },
+  {
+    "name": "3D图标库",
+    "url": "https://www.ai-suguan.com/",
+    "description": "数千个高质量3D图标的大型图标库，AI生成的精品3D素材",
+    "tags": [
+      "3D图标",
+      "高质量素材",
+      "图标下载"
+    ],
+    "category1": "设计素材模板",
+    "category2": "图标图片",
+    "id": "100"
+  },
+  {
+    "name": "矢量图标免费下载",
+    "url": "https://igoutu.cn/icons/",
+    "description": "150万+免费矢量图标下载，支持SVG和PNG格式",
+    "tags": [
+      "矢量图标",
+      "SVG下载",
+      "免费素材"
+    ],
+    "category1": "设计素材模板",
+    "category2": "图标图片",
+    "id": "101"
+  },
+  {
+    "name": "unDraw插画",
+    "url": "https://undraw.co/illustrations",
+    "description": "免费可商用SVG插画库，支持在线修改颜色，风格统一优雅",
+    "tags": [
+      "SVG插画",
+      "可商用",
+      "免费素材"
+    ],
+    "category1": "设计素材模板",
+    "category2": "图标图片",
+    "id": "102"
+  },
+  {
+    "name": "麦田艺术油画",
+    "url": "https://www.nbfox.com/",
+    "description": "收录世界名画的高清无水印艺术网站，世界名画免费下载",
+    "tags": [
+      "世界名画",
+      "艺术素材",
+      "免费下载"
+    ],
+    "category1": "设计素材模板",
+    "category2": "图标图片",
+    "id": "103"
+  },
+  {
+    "name": "AI可商用图片",
+    "url": "https://gyo.one/image",
+    "description": "免费可商用AI图片素材站，无需注册即可无限制下载使用",
+    "tags": [
+      "AI图片",
+      "可商用",
+      "免费下载"
+    ],
+    "category1": "设计素材模板",
+    "category2": "图标图片",
+    "id": "104"
+  },
+  {
+    "name": "字体库免费商用",
+    "url": "https://zitiku.org/",
+    "description": "1000+中英文免费商用字体资源下载，高品质字体一站汇集",
+    "tags": [
+      "免费商用字体",
+      "中文字体",
+      "字体下载"
+    ],
+    "category1": "设计素材模板",
+    "category2": "字体资源",
+    "id": "105"
+  },
+  {
+    "name": "ZeoSeven字体",
+    "url": "https://fonts.zeoseven.com/",
+    "description": "免费商用字体和开源字体的WebFonts API和下载站",
+    "tags": [
+      "开源字体",
+      "WebFonts",
+      "免费商用"
+    ],
+    "category1": "设计素材模板",
+    "category2": "字体资源",
+    "id": "106"
+  },
+  {
+    "name": "字体天下",
+    "url": "https://m.fonts.net.cn/",
+    "description": "提供各类字体免费下载和在线预览服务的综合字体平台",
+    "tags": [
+      "字体下载",
+      "在线预览",
+      "综合平台"
+    ],
+    "category1": "设计素材模板",
+    "category2": "字体资源",
+    "id": "107"
+  },
+  {
+    "name": "SVGL图标下载",
+    "url": "https://svgl.app/",
+    "description": "在线免费SVG logo下载库，收录各大知名品牌的矢量LOGO",
+    "tags": [
+      "SVG logo",
+      "品牌图标",
+      "矢量下载"
+    ],
+    "category1": "设计素材模板",
+    "category2": "Logo素材",
+    "id": "108"
+  },
+  {
+    "name": "LogoCook制作",
+    "url": "https://www.logocook.shop/",
+    "description": "免费可爱Logo在线制作工具，轻松生成专属个性化Logo",
+    "tags": [
+      "Logo制作",
+      "在线工具",
+      "免费生成"
+    ],
+    "category1": "设计素材模板",
+    "category2": "Logo素材",
+    "id": "109"
+  },
+  {
+    "name": "FindSounds音效",
+    "url": "https://www.findsounds.com/typesChinese.html",
+    "description": "100万+种免费音效和声音采样，无需注册即可下载使用",
+    "tags": [
+      "音效下载",
+      "免费声音",
+      "素材库"
+    ],
+    "category1": "设计素材模板",
+    "category2": "音效素材",
+    "id": "110"
+  },
+  {
+    "name": "淘声音效库",
+    "url": "https://www.tosound.com/",
+    "description": "声音搜索引擎，提供免费音效素材和视频游戏配乐下载",
+    "tags": [
+      "音效搜索",
+      "免费配乐",
+      "声音素材"
+    ],
+    "category1": "设计素材模板",
+    "category2": "音效素材",
+    "id": "111"
+  },
+  {
+    "name": "爱给网素材",
+    "url": "https://m.aigei.com/",
+    "description": "提供音效配乐、3D模型、视频素材等多媒体素材的免费下载平台",
+    "tags": [
+      "多媒体素材",
+      "音效3D",
+      "免费下载"
+    ],
+    "category1": "设计素材模板",
+    "category2": "音效素材",
+    "id": "112"
+  },
+  {
+    "name": "PR模板下载",
+    "url": "https://www.lookae.com/prmoban/",
+    "description": "Premiere Pro模板免费下载，含mogrt预设与工程文件",
+    "tags": [
+      "PR模板",
+      "Premiere",
+      "视频模板"
+    ],
+    "category1": "设计素材模板",
+    "category2": "视频素材",
+    "id": "113"
+  },
+  {
+    "name": "AE模板LookAE",
+    "url": "https://www.lookae.com/after-effects/other-after-effects/",
+    "description": "After Effects模板免费下载，专业AE工程文件与预设资源",
+    "tags": [
+      "AE模板",
+      "After Effects",
+      "视频特效"
+    ],
+    "category1": "设计素材模板",
+    "category2": "视频素材",
+    "id": "114"
+  },
+  {
+    "name": "夸克万套PPT大合集",
+    "url": "https://pan.quark.cn/s/6bc0088b16c4#/list/share",
+    "description": "夸克网盘共享2万套PPT模板典藏大合集84GB，覆盖全行业场景",
+    "tags": [
+      "PPT合集",
+      "设计模板",
+      "海量资源"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "设计资源",
+    "id": "115"
+  },
+  {
+    "name": "自媒体剪辑素材库",
+    "url": "https://pan.quark.cn/s/219f51ce8e4d#/list/share",
+    "description": "小红书热卖自媒体各行业剪辑素材合集，适合vlog日常创作",
+    "tags": [
+      "剪辑素材",
+      "自媒体",
+      "网盘资源"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "设计资源",
+    "id": "116"
+  },
+  {
+    "name": "豆包AI助手",
+    "url": "https://www.doubao.com/chat/",
+    "description": "字节跳动旗下AI智能助手，支持多轮对话与创作辅助",
+    "tags": [
+      "AI对话",
+      "字节跳动",
+      "智能助手"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "117"
+  },
+  {
+    "name": "DeepL翻译",
+    "url": "https://www.deepl.com/zh/translator",
+    "description": "全球最准确的AI翻译器，支持31种语言的高质量翻译",
+    "tags": [
+      "AI翻译",
+      "高质量",
+      "多语言"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "118"
+  },
+  {
+    "name": "AI提示词库AiShort",
+    "url": "https://www.aishort.top/",
+    "description": "精选Prompt模板库，即刻提升AI效率的提示词分享平台",
+    "tags": [
+      "Prompt模板",
+      "AI提示词",
+      "效率提升"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "119"
+  },
+  {
+    "name": "AI图像生成免费",
+    "url": "https://aiart.gcc.ac.cn/",
+    "description": "免费在线AI绘画工具，无需注册即可生成高质量AI图像",
+    "tags": [
+      "AI绘画",
+      "免费生成",
+      "图像创作"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "120"
+  },
+  {
+    "name": "TTSMaker配音",
+    "url": "https://ttsmaker.cn/",
+    "description": "在线免费文字转语音平台，提供多种声音与语言的配音服务",
+    "tags": [
+      "文字转语音",
+      "TTS配音",
+      "免费使用"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "121"
+  },
+  {
+    "name": "Fogsight动画生成",
+    "url": "https://fogsight.ai/",
+    "description": "雾象AI将复杂概念转化为直观的动态HTML动画可视化工具",
+    "tags": [
+      "动画生成",
+      "概念可视化",
+      "AI教学"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "122"
+  },
+  {
+    "name": "AI TryAII对比",
+    "url": "https://tryaii.com/",
+    "description": "实时横向对比GPT、Gemini、Claude等主流AI大模型的测试平台",
+    "tags": [
+      "AI对比",
+      "大模型测试",
+      "横向评测"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "123"
+  },
+  {
+    "name": "MikuTools工具集",
+    "url": "https://tools.miku.ac/",
+    "description": "一站式在线工具合集，内置多种AI工具，无广告无需登录",
+    "tags": [
+      "工具箱",
+      "无广告",
+      "AI工具"
+    ],
+    "category1": "开源项目展示",
+    "category2": "在线工具箱",
+    "id": "124"
+  },
+  {
+    "name": "IT Tools开发工具",
+    "url": "https://it-tools.tech/",
+    "description": "免费且全面的开发人员在线工具集合，100+实用开发工具",
+    "tags": [
+      "开发工具",
+      "程序员工具",
+      "免费工具"
+    ],
+    "category1": "开源项目展示",
+    "category2": "在线工具箱",
+    "id": "125"
+  },
+  {
+    "name": "千盒在线工具",
+    "url": "https://1000tool.com/",
+    "description": "优质在线工具大全，汇聚各类实用网络工具一站式使用",
+    "tags": [
+      "在线工具",
+      "工具大全",
+      "一站式"
+    ],
+    "category1": "开源项目展示",
+    "category2": "在线工具箱",
+    "id": "126"
+  },
+  {
+    "name": "iLovePDF工具",
+    "url": "https://www.ilovepdf.com/zh-cn",
+    "description": "专业PDF在线处理工具集，提供压缩转换合并等全套PDF功能",
+    "tags": [
+      "PDF工具",
+      "在线处理",
+      "格式转换"
+    ],
+    "category1": "开源项目展示",
+    "category2": "在线工具箱",
+    "id": "127"
+  },
+  {
+    "name": "Excalidraw白板",
+    "url": "https://excalidraw.com/",
+    "description": "开源手绘风格在线白板工具，支持协作绘图与流程图创建",
+    "tags": [
+      "白板工具",
+      "开源",
+      "协作绘图"
+    ],
+    "category1": "开源项目展示",
+    "category2": "在线工具箱",
+    "id": "128"
+  },
+  {
+    "name": "GitMind思维导图",
+    "url": "https://gitmind.cn/",
+    "description": "AI思维导图与流程图制作软件，支持多人协作在线编辑",
+    "tags": [
+      "思维导图",
+      "AI辅助",
+      "协作工具"
+    ],
+    "category1": "开源项目展示",
+    "category2": "在线工具箱",
+    "id": "129"
+  },
+  {
+    "name": "Convertio格式转换",
+    "url": "https://convertio.co/zh/",
+    "description": "支持300种格式的在线文件转换器，图片视频文档音频均可转换",
+    "tags": [
+      "格式转换",
+      "300种格式",
+      "在线工具"
+    ],
+    "category1": "开源项目展示",
+    "category2": "在线工具箱",
+    "id": "130"
+  },
+  {
+    "name": "盘大师网盘搜索",
+    "url": "https://www.pandashi8.com/",
+    "description": "聚合网盘资源搜索引擎，支持夸克网盘等多云盘资源搜索",
+    "tags": [
+      "网盘搜索",
+      "聚合引擎",
+      "资源查找"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "网盘搜索",
+    "id": "131"
+  },
+  {
+    "name": "猫狸阿里盘搜",
+    "url": "https://www.alipansou.com/",
+    "description": "阿里云盘资源搜索神器，快速找到阿里网盘共享内容",
+    "tags": [
+      "阿里云盘",
+      "网盘搜索",
+      "资源查找"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "网盘搜索",
+    "id": "132"
+  },
+  {
+    "name": "混合盘搜索",
+    "url": "https://hunhepan.com/search",
+    "description": "同时搜索百度、夸克、阿里云盘资源的聚合网盘搜索站",
+    "tags": [
+      "多盘搜索",
+      "聚合搜索",
+      "网盘资源"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "网盘搜索",
+    "id": "133"
+  },
+  {
+    "name": "磁力星球BT搜索",
+    "url": "https://btstar.top/",
+    "description": "磁力链接与BT种子搜索引擎，快速找到想要的资源",
+    "tags": [
+      "磁力搜索",
+      "BT种子",
+      "资源下载"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "网盘搜索",
+    "id": "134"
+  },
+  {
+    "name": "历史价格查询",
+    "url": "https://m.gwdang.com/trendIndex/",
+    "description": "查询京东淘宝得物历史价格走势，帮助判断是否买到实惠",
+    "tags": [
+      "历史价格",
+      "购物参考",
+      "价格走势"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "生活服务",
+    "id": "135"
+  },
+  {
+    "name": "全球日落时间",
+    "url": "https://whattimeissunset.net/",
+    "description": "全球各城市日落时间精准查询，摄影黄金时段与旅行必备工具",
+    "tags": [
+      "日落时间",
+      "摄影助手",
+      "旅行工具"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "生活服务",
+    "id": "136"
+  },
+  {
+    "name": "城市租房生存指南",
+    "url": "https://zufang.ababtools.com/",
+    "description": "专为租房者设计的生存指南，覆盖看房签约维权全流程知识",
+    "tags": [
+      "租房指南",
+      "生活攻略",
+      "维权知识"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "生活服务",
+    "id": "137"
+  },
+  {
+    "name": "2026个税计算器",
+    "url": "https://geshui.designshidai.com/",
+    "description": "2026年个人所得税计算工具，支持年度汇算清缴与退税预测",
+    "tags": [
+      "个税计算",
+      "退税预测",
+      "薪资工具"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "生活服务",
+    "id": "138"
+  },
+  {
+    "name": "iFixit维修手册",
+    "url": "https://zh.ifixit.com/Guide",
+    "description": "针对所有物品的修理手册，从手机到家电的DIY维修指南",
+    "tags": [
+      "维修手册",
+      "DIY修理",
+      "实用教程"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "生活服务",
+    "id": "139"
+  },
+  {
+    "name": "WikiHow万事指南",
+    "url": "https://zh.wikihow.com/%E9%A6%96%E9%A1%B5",
+    "description": "可信赖的万事指南，涵盖生活、技能、健康等全方位实用教程",
+    "tags": [
+      "万事指南",
+      "生活技能",
+      "实用教程"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "生活服务",
+    "id": "140"
+  },
+  {
+    "name": "医保政策导航",
+    "url": "https://yibao.233h.com/",
+    "description": "医保报销全攻略平台，医保政策查询与报销流程一站导航",
+    "tags": [
+      "医保政策",
+      "报销攻略",
+      "医疗信息"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "生活服务",
+    "id": "141"
+  },
+  {
+    "name": "哲风壁纸",
+    "url": "https://haowallpaper.com/mobileView",
+    "description": "免费高清手机壁纸平台，海量精美背景图片分类下载",
+    "tags": [
+      "手机壁纸",
+      "高清免费",
+      "精美图片"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "壁纸美图",
+    "id": "142"
+  },
+  {
+    "name": "4K电脑壁纸",
+    "url": "https://4kwallpapers.com/",
+    "description": "提供超高清4K/8K宽屏电脑壁纸免费下载的专业壁纸站",
+    "tags": [
+      "4K壁纸",
+      "超高清",
+      "电脑壁纸"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "壁纸美图",
+    "id": "143"
+  },
+  {
+    "name": "全景故宫",
+    "url": "https://pano.dpm.org.cn/#/",
+    "description": "故宫博物院官方全景虚拟游览，360°沉浸式在线参观故宫",
+    "tags": [
+      "故宫全景",
+      "虚拟游览",
+      "文化旅游"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "壁纸美图",
+    "id": "144"
+  },
+  {
+    "name": "Sound Box白噪音",
+    "url": "https://soundbox.fun/",
+    "description": "专业白噪音生成器，含情境音效助眠放松等多种音景场景",
+    "tags": [
+      "白噪音",
+      "助眠放松",
+      "情境音效"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "休闲娱乐",
+    "id": "145"
+  },
+  {
+    "name": "落耳助眠",
+    "url": "https://loaer.com/",
+    "description": "专注睡眠、专注与冥想的白噪音工具，含呼吸练习与放松功能",
+    "tags": [
+      "助眠工具",
+      "冥想放松",
+      "专注白噪音"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "休闲娱乐",
+    "id": "146"
+  },
+  {
+    "name": "今日热榜聚合",
+    "url": "https://hot.vvhan.com/",
+    "description": "汇聚全网热点资讯的热榜聚合平台，实时追踪各平台热门内容",
+    "tags": [
+      "热点聚合",
+      "实时热榜",
+      "全网资讯"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "新闻资讯",
+    "id": "147"
+  },
+  {
+    "name": "Kagi新闻简报",
+    "url": "https://news.kagi.com/",
+    "description": "将全球数千家新闻来源提炼成一份完美的每日新闻简报",
+    "tags": [
+      "新闻聚合",
+      "每日简报",
+      "全球资讯"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "新闻资讯",
+    "id": "148"
+  },
+  {
+    "name": "有据事实核查",
+    "url": "https://chinafactcheck.com/",
+    "description": "专业国际新闻事实核查平台，辨别真假新闻的权威参考站",
+    "tags": [
+      "事实核查",
+      "辟谣平台",
+      "新闻鉴别"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "新闻资讯",
+    "id": "149"
+  },
+  {
+    "name": "文叔叔临时网盘",
+    "url": "https://www.wenshushu.cn/",
+    "description": "免费临时文件传输工具，提供大文件跨设备快速分享服务",
+    "tags": [
+      "临时传输",
+      "文件分享",
+      "大文件"
+    ],
+    "category1": "网盘资源收藏",
+    "category2": "文件传输",
+    "id": "150"
+  },
+  {
+    "name": "临时邮箱MinMail",
+    "url": "https://minmail.app/cn",
+    "description": "免费临时电子邮件服务，保护隐私避免垃圾邮件骚扰",
+    "tags": [
+      "临时邮箱",
+      "隐私保护",
+      "免注册"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "实用工具",
+    "id": "151"
+  },
+  {
+    "name": "Zoom.Earth天气追踪",
+    "url": "https://zoom.earth/",
+    "description": "实时卫星地图与天气图，可追踪台风、气旋等极端天气事件",
+    "tags": [
+      "卫星地图",
+      "天气追踪",
+      "台风监测"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "地图探索",
+    "id": "152"
+  },
+  {
+    "name": "全景航拍AirPano",
+    "url": "https://airpano.org.cn/",
+    "description": "360°全球航拍全景图库，虚拟游览世界各地最壮观的景色",
+    "tags": [
+      "航拍全景",
+      "360°游览",
+      "世界景色"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "地图探索",
+    "id": "153"
+  },
+  {
+    "name": "全球实况摄像头",
+    "url": "https://www.skylinewebcams.com/",
+    "description": "全球高清实时摄像头直播平台，足不出户看遍全球各地实况",
+    "tags": [
+      "实况摄像",
+      "全球直播",
+      "实时查看"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "地图探索",
+    "id": "154"
+  },
+  {
+    "name": "人生重开模拟器",
+    "url": "https://liferestart.syaro.io/public/index.html",
+    "description": "趣味人生重开模拟游戏，随机分配属性体验不同的人生轨迹",
+    "tags": [
+      "趣味游戏",
+      "人生模拟",
+      "随机互动"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "趣味娱乐",
+    "id": "155"
+  },
+  {
+    "name": "16Personalities测试",
+    "url": "https://www.16personalities.com/ch",
+    "description": "MBTI人格类型免费测试，提供详细的人格描述与职业建议",
+    "tags": [
+      "MBTI",
+      "人格测试",
+      "职业建议"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "趣味娱乐",
+    "id": "156"
+  },
+  {
+    "name": "宇宙的刻度",
+    "url": "https://scaleofuniverse.com/en",
+    "description": "从微观粒子到宏观星系的交互式可视化学习工具，探索宇宙尺度",
+    "tags": [
+      "宇宙探索",
+      "科学可视化",
+      "教育工具"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "趣味娱乐",
+    "id": "157"
+  },
+  {
+    "name": "大海有多深",
+    "url": "https://neal.fun/deep-sea/",
+    "description": "交互式深海探索工具，展示海洋不同深度的生物与奇观",
+    "tags": [
+      "深海探索",
+      "科学教育",
+      "交互可视化"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "趣味娱乐",
+    "id": "158"
+  },
+  {
+    "name": "哔哩哔哩下载器",
+    "url": "https://savebilibili.com/zh-CN",
+    "description": "在线免费B站视频下载器，无水印高清格式一键下载",
+    "tags": [
+      "B站下载",
+      "无水印",
+      "视频下载"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "自媒体工具",
+    "id": "159"
+  },
+  {
+    "name": "多平台去水印",
+    "url": "https://dy.kukutool.com/",
+    "description": "免费不限次数多平台视频去水印解析工具，支持130+平台",
+    "tags": [
+      "去水印",
+      "视频解析",
+      "多平台支持"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "自媒体工具",
+    "id": "160"
+  },
+  {
+    "name": "AnyToCopy文案提取",
+    "url": "https://www.anytocopy.com/",
+    "description": "免费在线视频文案提取工具，一键抖音文案提取，支持50+平台",
+    "tags": [
+      "文案提取",
+      "视频转文字",
+      "自媒体助手"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "自媒体工具",
+    "id": "161"
+  },
+  {
+    "name": "公众号排版器",
+    "url": "https://editor.huasheng.ai/",
+    "description": "在线微信公众号内容排版工具，快速生成美观的图文排版",
+    "tags": [
+      "公众号排版",
+      "微信编辑",
+      "图文排版"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "自媒体工具",
+    "id": "162"
+  },
+  {
+    "name": "Presearch去中心化搜索",
+    "url": "https://presearch.com/",
+    "description": "去中心化隐私搜索引擎，基于区块链技术，不追踪用户数据",
+    "tags": [
+      "隐私搜索",
+      "去中心化",
+      "区块链"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "搜索引擎",
+    "id": "163"
+  },
+  {
+    "name": "Yandex俄罗斯搜索",
+    "url": "https://yandex.com/",
+    "description": "俄罗斯最大搜索引擎，图像识别能力强，可以识别搜索人脸",
+    "tags": [
+      "俄罗斯搜索",
+      "图像识别",
+      "人脸搜索"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "搜索引擎",
+    "id": "164"
+  },
+  {
+    "name": "Kagi高质量搜索",
+    "url": "https://kagi.com/",
+    "description": "付费高质量搜索引擎，无广告无追踪，搜索结果更准确",
+    "tags": [
+      "高质量搜索",
+      "无广告",
+      "隐私保护"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "搜索引擎",
+    "id": "165"
+  },
+  {
+    "name": "Exa AI搜索",
+    "url": "https://exa.ai/",
+    "description": "AI驱动的语义搜索引擎，通过含义而非关键词找到最相关内容",
+    "tags": [
+      "AI搜索",
+      "语义搜索",
+      "智能检索"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "搜索引擎",
+    "id": "166"
+  },
+  {
+    "name": "IPTV直播源工具",
+    "url": "https://iptv.hacks.tools/",
+    "description": "IPTV直播源订阅工具，提供全球各地电视频道直播源整合",
+    "tags": [
+      "IPTV直播",
+      "电视频道",
+      "直播源"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线直播",
+    "id": "167"
+  },
+  {
+    "name": "电视盒子TVBox",
+    "url": "https://github.com/youhunwl/TVAPP",
+    "description": "Android电视盒子应用与直播源整合项目，开源免费使用",
+    "tags": [
+      "TVBox",
+      "电视盒子",
+      "开源应用"
+    ],
+    "category1": "影视音乐游戏",
+    "category2": "在线直播",
+    "id": "168"
+  },
+  {
+    "name": "奇点资源聚合",
+    "url": "https://qidianku.com/",
+    "description": "各类精品资源聚合导航站，汇集网络上优质内容推荐",
+    "tags": [
+      "资源聚合",
+      "导航站",
+      "精品推荐"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "导航聚合",
+    "id": "169"
+  },
+  {
+    "name": "享分享资源社区",
+    "url": "https://xiangleshare.com/",
+    "description": "分享生活中发现的优质网络资源与实用工具推荐社区",
+    "tags": [
+      "资源分享",
+      "社区推荐",
+      "实用工具"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "导航聚合",
+    "id": "170"
+  },
+  {
+    "name": "GitHub开源仓库",
+    "url": "https://github.com/",
+    "description": "全球最大开源项目托管平台，汇集数百万开源代码仓库",
+    "tags": [
+      "开源代码",
+      "代码托管",
+      "开发社区"
+    ],
+    "category1": "开源项目展示",
+    "category2": "开源平台",
+    "id": "171"
+  },
+  {
+    "name": "程序员考公指南",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "description": "互联网首份程序员考公指南，由3位前大厂程序员联合撰写",
+    "tags": [
+      "程序员",
+      "考公指南",
+      "开源文档"
+    ],
+    "category1": "教育资源汇总",
+    "category2": "考公考研",
+    "id": "172"
+  },
+  {
+    "name": "Workout Cool健身",
+    "url": "https://workout.cool/",
+    "description": "现代化开源健身计划平台，支持多语言的免费健身训练工具",
+    "tags": [
+      "健身平台",
+      "开源",
+      "健康运动"
+    ],
+    "category1": "开源项目展示",
+    "category2": "开源平台",
+    "id": "173"
+  },
+  {
+    "name": "证件照在线制作",
+    "url": "https://id-photo.cn/",
+    "description": "证件照大师，在线一键制作各规格证件照，支持换背景色",
+    "tags": [
+      "证件照",
+      "在线制作",
+      "换底色"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "图片工具",
+    "id": "174"
+  },
+  {
+    "name": "草料二维码生成",
+    "url": "https://cli.im/",
+    "description": "专业在线二维码生成器，支持文字URL名片等多种内容类型",
+    "tags": [
+      "二维码",
+      "在线生成",
+      "专业工具"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "图片工具",
+    "id": "175"
+  },
+  {
+    "name": "LazyPic图片工具箱",
+    "url": "https://pic.lazyso.com/",
+    "description": "本地极速处理图片的工具箱，隐私安全，无需上传服务器",
+    "tags": [
+      "图片处理",
+      "本地运行",
+      "隐私安全"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "图片工具",
+    "id": "176"
+  },
+  {
+    "name": "在线抠图免费",
+    "url": "https://ezpic.fun/zh",
+    "description": "在线免费AI抠图去除图片背景，一键实现高精度背景移除",
+    "tags": [
+      "AI抠图",
+      "去背景",
+      "免费工具"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "图片工具",
+    "id": "177"
+  },
+  {
+    "name": "白描OCR识别",
+    "url": "https://web.baimiaoapp.com/",
+    "description": "在线OCR文字识别工具，支持多国语言的图片转文字服务",
+    "tags": [
+      "OCR识别",
+      "图片转文字",
+      "多语言支持"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "图片工具",
+    "id": "178"
+  },
+  {
+    "name": "中国色传统颜色",
+    "url": "https://zhongguose.com/",
+    "description": "收录中国传统色彩的颜色代码库，含颜色名称与RGB/HEX值",
+    "tags": [
+      "中国传统色",
+      "颜色代码",
+      "设计参考"
+    ],
+    "category1": "设计素材模板",
+    "category2": "配色工具",
+    "id": "179"
+  },
+  {
+    "name": "haveibeenpwned",
+    "url": "https://haveibeenpwned.com/",
+    "description": "查询邮箱账号是否在数据泄露事件中被泄露的安全检测工具",
+    "tags": [
+      "账号安全",
+      "数据泄露",
+      "隐私检测"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "隐私安全",
+    "id": "180"
+  },
+  {
+    "name": "IP纯净度检测",
+    "url": "https://ippure.com/",
+    "description": "IP地址信息与纯净度检测工具，查询IP归属地与安全状态",
+    "tags": [
+      "IP检测",
+      "网络安全",
+      "纯净度查询"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "隐私安全",
+    "id": "181"
+  },
+  {
+    "name": "KMS系统激活",
+    "url": "https://kms.cx/",
+    "description": "一键激活Windows系统和Office软件的KMS激活工具网站",
+    "tags": [
+      "KMS激活",
+      "Windows激活",
+      "Office激活"
+    ],
+    "category1": "软件下载网站",
+    "category2": "系统工具",
+    "id": "182"
+  },
+  {
+    "name": "SimilarSites类似网站",
+    "url": "https://similarsites.com/",
+    "description": "输入网站链接找到类似网站的推荐工具，发现同类优质网站",
+    "tags": [
+      "类似网站",
+      "网站发现",
+      "网络导航"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "导航聚合",
+    "id": "183"
+  },
+  {
+    "name": "秘塔AI搜索",
+    "url": "https://metaso.cn/",
+    "description": "AI驱动的智能搜索引擎，提供结构化搜索结果与深度分析",
+    "tags": [
+      "AI搜索",
+      "智能搜索",
+      "深度分析"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "搜索引擎",
+    "id": "184"
+  },
+  {
+    "name": "GIF动图搜索GIPHY",
+    "url": "https://giphy.com/",
+    "description": "全球最大GIF动图搜索引擎，海量表情包与动画素材免费使用",
+    "tags": [
+      "GIF搜索",
+      "动图素材",
+      "表情包"
+    ],
+    "category1": "设计素材模板",
+    "category2": "图标图片",
+    "id": "185"
+  },
+  {
+    "name": "深言达意找词",
+    "url": "https://shenyandayi.com/mobile",
+    "description": "用于寻找贴切词语和句子的语言工具，输入感觉找到精准表达",
+    "tags": [
+      "找词造句",
+      "语言工具",
+      "精准表达"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "实用工具",
+    "id": "186"
+  },
+  {
+    "name": "Bypass抢票",
+    "url": "https://www.bypass.cn/",
+    "description": "火车票智能分流抢票服务，通过候补购票提高抢票成功率",
+    "tags": [
+      "抢票工具",
+      "火车票",
+      "候补购票"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "实用工具",
+    "id": "187"
+  },
+  {
+    "name": "实时线报羊毛",
+    "url": "https://www.906k.cn/",
+    "description": "实时分享最快最全的一手活动羊毛资讯，薅羊毛必看线报站",
+    "tags": [
+      "线报活动",
+      "羊毛资讯",
+      "优惠活动"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "优惠福利",
+    "id": "188"
+  },
+  {
+    "name": "App全球最低价",
+    "url": "https://appstoreprice.org/zh",
+    "description": "发现全球App Store最低价格的工具，汇率换算帮你省钱购应用",
+    "tags": [
+      "App低价",
+      "全球比价",
+      "省钱工具"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "优惠福利",
+    "id": "189"
+  },
+  {
+    "name": "Versus万物对比",
+    "url": "https://versus.com/cn",
+    "description": "万物皆可对比的产品参数比较平台，覆盖手机电脑家电等",
+    "tags": [
+      "产品对比",
+      "参数比较",
+      "选购助手"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "优惠福利",
+    "id": "190"
+  },
+  {
+    "name": "书源搜索引擎",
+    "url": "https://shuyuan.yiove.com/",
+    "description": "专注阅读APP书源搜索与分享，覆盖各类网络小说书源",
+    "tags": [
+      "书源搜索",
+      "阅读APP",
+      "小说书源"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "导航聚合",
+    "id": "191"
+  },
+  {
+    "name": "Grep代码搜索",
+    "url": "https://grep.app/",
+    "description": "在GitHub上进行代码搜索的专业工具，快速定位开源代码片段",
+    "tags": [
+      "代码搜索",
+      "GitHub",
+      "开发工具"
+    ],
+    "category1": "开源项目展示",
+    "category2": "开发工具",
+    "id": "192"
+  },
+  {
+    "name": "BugMeNot免费账号",
+    "url": "https://bugmenot.com/",
+    "description": "提供各网站共享登录账号的数据库，避免注册直接使用",
+    "tags": [
+      "共享账号",
+      "免注册",
+      "登录助手"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "实用工具",
+    "id": "193"
+  },
+  {
+    "name": "颜色生成器Kigen",
+    "url": "https://kigen.design/color",
+    "description": "一键打造专业级设计系统配色方案的颜色生成器工具",
+    "tags": [
+      "配色方案",
+      "颜色生成",
+      "设计系统"
+    ],
+    "category1": "设计素材模板",
+    "category2": "配色工具",
+    "id": "194"
+  },
+  {
+    "name": "HumanizeAI人性化",
+    "url": "https://www.humanizeaiwork.com/",
+    "description": "将AI生成文本转换为100%自然人类文本的内容优化工具",
+    "tags": [
+      "AI内容优化",
+      "文本人性化",
+      "写作工具"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "195"
+  },
+  {
+    "name": "大模型API中转",
+    "url": "https://uiuiapi.com/",
+    "description": "AI大模型API一站式聚合平台，接入OpenAI、Claude等主流API",
+    "tags": [
+      "API中转",
+      "大模型接入",
+      "开发服务"
+    ],
+    "category1": "开源项目展示",
+    "category2": "AI工具",
+    "id": "196"
+  }
+]

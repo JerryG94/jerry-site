@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Build outputs
+# dist  # Keep dist for GitHub Pages deployment
+build
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+产前env.local
+产前env.*.local
+
+# Testing
+coverage
+
+# Misc
+*.tgz
+.cache

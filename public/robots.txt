@@ -1,0 +1,22 @@
+# https://www.robotstxt.org/robotstxt.html
+# For SDK 0.28.0 and above, Applebot is the user agent for Apple Intelligence and Spotlight
+
+User-agent: *
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+Sitemap: https://nav.glj.com/sitemap.xml

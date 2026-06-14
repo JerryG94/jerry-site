@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-bg: 249 250 251;
+    --color-surface: 255 255 255;
+    --color-text: 15 23 42;
+  }
+  
+  .dark {
+    --color-bg: 15 23 42;
+    --color-surface: 30 41 59;
+    --color-text: 248 250 252;
+  }
+  
+  * {
+    @apply border-slate-200 dark:border-slate-700;
+  }
+  
+  body {
+    font-family: 'Geist', 'Outfit', system-ui, -apple-system, sans-serif;
+    @apply bg-[rgb(var(--color-bg))] text-[rgb(var(--color-text))];
+  }
+  
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    @apply bg-slate-100 dark:bg-slate-900;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    @apply bg-slate-300 dark:bg-slate-600 rounded-full;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    @apply bg-slate-400 dark:bg-slate-500;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-white/80 dark:bg-slate-900/80 backdrop-blur-xl 
+           border border-slate-200/50 dark:border-slate-700/50
+           shadow-[0_8px_32px_rgba(0,0,0,0.04)] 
+           dark:shadow-[0_8px_32px_rgba(0,0,0,0.3)];
+  }
+  
+  .luxury-glass {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(30px) saturate(200%);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    @apply rounded-2xl;
+  }
+  
+  .magnetic-element {
+    transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+  
+  .magnetic-element:hover {
+    transform: scale(1.05) translateY(-2px);
+  }
+  
+  .bento-grid {
+    @apply grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4;
+  }
+  
+  .staggered-fade-in > * {
+    opacity: 0;
+    animation: staggeredFadeIn 0.5s ease-out forwards;
+  }
+  
+  .staggered-fade-in > *:nth-child(1) { animation-delay: 0.1s; }
+  .staggered-fade-in > *:nth-child(2) { animation-delay: 0.2s; }
+  .staggered-fade-in > *:nth-child(3) { animation-delay: 0.3s; }
+  .staggered-fade-in > *:nth-child(4) { animation-delay: 0.4s; }
+  .staggered-fade-in > *:nth-child(5) { animation-delay: 0.5s; }
+  .staggered-fade-in > *:nth-child(6) { animation-delay: 0.6s; }
+  .staggered-fade-in > *:nth-child(7) { animation-delay: 0.7s; }
+  .staggered-fade-in > *:nth-child(8) { animation-delay: 0.8s; }
+  
+  @keyframes staggeredFadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+  
+  .perspective-1000 {
+    perspective: 1000px;
+  }
+}
