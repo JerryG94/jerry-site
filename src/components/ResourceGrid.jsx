@@ -179,34 +179,13 @@ export default function ResourceGrid({ user }) {
           <div>
             <h1 className="text-2xl md:text-3xl font-bold tracking-tight">
               {currentCategoryName ? (
-                <span className="flex items-center gap-2">
-                  <span>分类:</span>
-                  <span className="text-blue-600 dark:text-blue-400">{currentCategoryName}</span>
-                </span>
+                <span className="text-blue-600 dark:text-blue-400">{currentCategoryName}</span>
               ) : (
                 'Jerry小站'
               )}
             </h1>
-            <p className="text-sm text-slate-500 dark:text-slate-400 mt-1 flex items-center gap-2">
+            <p className="text-sm text-slate-500 dark:text-slate-400 mt-1">
               共 {filteredResources.length} 个优质网站资源
-              {usingLocalData && (
-                <span className="px-2 py-0.5 bg-amber-100 dark:bg-amber-900/30 text-amber-700 dark:text-amber-300 rounded text-xs">
-                  本地数据
-                </span>
-              )}
-              {!usingLocalData && (
-                <span className="px-2 py-0.5 bg-green-100 dark:bg-green-900/30 text-green-700 dark:text-green-300 rounded text-xs">
-                  API 同步
-                </span>
-              )}
-              {selectedCategory1 && (
-                <button
-                  onClick={() => setSearchParams({})}
-                  className="ml-2 text-blue-600 dark:text-blue-400 hover:underline text-xs"
-                >
-                  (清除分类)
-                </button>
-              )}
             </p>
           </div>
 

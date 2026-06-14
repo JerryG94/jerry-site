@@ -84,9 +84,9 @@ export default function Navbar({
       animate={{ y: 0 }}
       className="fixed top-0 left-0 right-0 z-50 glass-card border-b"
     >
-      <div className="max-w-[1600px] mx-auto px-4 md:px-6 h-14 flex items-center justify-between gap-3">
-        {/* Left: Logo + Mobile Menu */}
-        <div className="flex items-center gap-2 flex-shrink-0">
+      <div className="h-14 flex items-center">
+        {/* Left: Logo - aligned with sidebar content */}
+        <div className="w-64 flex-shrink-0 flex items-center gap-2 pl-3 md:pl-3">
           <button
             onClick={() => setSidebarOpen(!sidebarOpen)}
             className="md:hidden p-1.5 rounded-lg hover:bg-slate-200/50 dark:hover:bg-slate-700/50 transition-colors"
@@ -99,7 +99,7 @@ export default function Navbar({
             className="flex items-center gap-1.5"
             whileHover={{ scale: 1.05 }}
           >
-            <img src="/assets/logo-jerry.png" alt="Jerry" className="w-8 h-8 object-contain" />
+            <img src="/assets/jerry-logo.png" alt="Jerry" className="w-8 h-8 object-contain" />
             <span className="hidden sm:block font-semibold text-base tracking-tight">
               Jerry小站
             </span>
@@ -108,7 +108,7 @@ export default function Navbar({
         </div>
 
         {/* Center: Search Bar */}
-        <div className="flex-1 max-w-lg">
+        <div className="flex-1 max-w-lg mx-auto px-2">
           <div className="relative group">
             <Search
               size={16}
@@ -129,8 +129,8 @@ export default function Navbar({
           </div>
         </div>
 
-        {/* Right: Actions */}
-        <div className="flex items-center gap-1 flex-shrink-0">
+        {/* Right: Actions - at the far right */}
+        <div className="flex items-center gap-1 flex-shrink-0 pr-4">
           {/* Back to frontend (admin only) */}
           {isAdmin && (
             <Link
