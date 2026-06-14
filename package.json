@@ -1,11 +1,13 @@
 {
-  "name": "GLJ资源导航",
+  "name": "glj-resource-nav",
   "version": "1.0.0",
   "private": true,
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "postbuild": "node scripts/postbuild.js",
+    "deploy": "npm run build && git add docs && git commit -m 'deploy: 更新 GitHub Pages' && git push",
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
@@ -37,18 +39,21 @@
   "keywords": [
     "资源导航",
     "网站收藏",
-    "React",
-    "Vite",
-    "TailwindCSS"
+    "resource-navigation",
+    "bookmarks",
+    "react",
+    "vite",
+    "tailwindcss",
+    "github-pages"
   ],
-  "author": "Senior Developer <senior-developer@workbuddy>",
+  "author": "JerryG94",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/glj-nav-hub.git"
+    "url": "https://github.com/JerryG94/glj-resource-nav"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/glj-nav-hub/issues"
+    "url": "https://github.com/JerryG94/glj-resource-nav/issues"
   },
-  "homepage": "https://nav.glj.com"
+  "homepage": "https://jerryg94.github.io/glj-resource-nav/"
 }
