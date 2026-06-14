@@ -1,8 +1,8 @@
-# GLJ 资源导航 🌐
+# Jerry小站 🐭
 
 > 一款现代化的个人资源导航网站，聚合优质网站资源，支持分类筛选、拖拽排序、可视化管理和 GitHub Pages 一键部署。
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://jerryg94.github.io/glj-resource-nav/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-Live-blue?logo=github)](https://jerryg94.github.io/jerry-site/)
 [![Tech Stack](https://img.shields.io/badge/React-18-blue?logo=react)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-6-purple?logo=vite)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8?logo=tailwindcss)](https://tailwindcss.com/)
@@ -31,7 +31,7 @@
 
 ## 🌐 在线演示
 
-**线上地址**：[https://jerryg94.github.io/glj-resource-nav/](https://jerryg94.github.io/glj-resource-nav/)
+**线上地址**：[https://jerryg94.github.io/jerry-site/](https://jerryg94.github.io/jerry-site/)
 
 > ⚠️ 管理后台功能需要本地运行 (`npm run dev`)，线上版仅供浏览。
 
@@ -83,7 +83,7 @@ nav-site/
 │   │   ├── bookmarks_data.json   # 主数据（196条）
 │   │   └── category_config.json  # 分类排序配置
 │   ├── components/
-│   │   ├── Navbar.jsx        # 顶栏
+│   │   ├── Navbar.jsx        # 顶栏（Jerry小站 Logo）
 │   │   ├── Sidebar.jsx       # 侧边栏（分类树/拖拽/右键菜单）
 │   │   ├── ResourceGrid.jsx  # 资源卡片网格
 │   │   ├── ResourceCard.jsx  # 卡片组件
@@ -97,6 +97,10 @@ nav-site/
 │   ├── pages/
 │   │   └── Admin.jsx         # 管理后台
 │   └── api/                  # API 客户端
+├── public/
+│   ├── assets/
+│   │   └── logo-jerry.png    # Jerry Logo（去背景）
+│   └── favicon.svg           # 网站图标
 ├── admin-api.js              # Vite 插件（开发服 REST API）
 ├── vite.config.js
 ├── tailwind.config.js
@@ -113,7 +117,7 @@ nav-site/
 ### 环境要求
 
 - Node.js 18+
-- npm 8+
+- npm 9+
 
 ### 安装运行
 
@@ -170,7 +174,7 @@ git commit -m "更新网站内容"
 git push            # 推送后 GitHub Pages 自动部署
 ```
 
-> **线上地址**：[https://jerryg94.github.io/glj-resource-nav/](https://jerryg94.github.io/glj-resource-nav/)
+> **线上地址**：[https://jerryg94.github.io/jerry-site/](https://jerryg94.github.io/jerry-site/)
 
 ### fork 后自行部署
 
@@ -245,10 +249,9 @@ MIT
 ---
 
 ---
-
 # English Version
 
-## GLJ Resource Navigator 🌐
+## Jerry Site 🐭
 
 A modern personal resource navigation site aggregating quality websites with category filtering, drag-and-drop management, visual admin panel, and one-click GitHub Pages deployment.
 
@@ -262,7 +265,7 @@ npm run dev        # localhost:3000
 
 ### Live Demo
 
-[https://jerryg94.github.io/glj-resource-nav/](https://jerryg94.github.io/glj-resource-nav/)
+[https://jerryg94.github.io/jerry-site/](https://jerryg94.github.io/jerry-site/)
 
 ### Features
 

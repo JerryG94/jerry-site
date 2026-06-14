@@ -1,7 +1,7 @@
 // 测试脚本 - 诊断页面空白问题
 // 在浏览器控制台中运行此脚本
 
-console.log('=== GLJ 资源导航 - 诊断脚本 ===')
+console.log('=== Jerry小站 - 诊断脚本 ===')
 
 // 1. 检查 React 是否正确加载
 console.log('1. 检查 React...')

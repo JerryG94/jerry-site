@@ -34,3 +34,7 @@ coverage
 # Misc
 *.tgz
 .cache
+
+# Local scripts (not for GitHub)
+start-admin.bat
+start-admin.sh

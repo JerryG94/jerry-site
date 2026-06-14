@@ -1,5 +1,5 @@
 {
-  "name": "glj-resource-nav",
+  "name": "jerry-site",
   "version": "1.0.0",
   "private": true,
   "type": "module",
@@ -37,9 +37,10 @@
     "not dead"
   ],
   "keywords": [
+    "Jerry小站",
     "资源导航",
     "网站收藏",
-    "resource-navigation",
+    "jerry-site",
     "bookmarks",
     "react",
     "vite",
@@ -50,10 +51,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JerryG94/glj-resource-nav"
+    "url": "https://github.com/JerryG94/jerry-site"
   },
   "bugs": {
-    "url": "https://github.com/JerryG94/glj-resource-nav/issues"
+    "url": "https://github.com/JerryG94/jerry-site/issues"
   },
-  "homepage": "https://jerryg94.github.io/glj-resource-nav/"
+  "homepage": "https://jerryg94.github.io/jerry-site/"
 }

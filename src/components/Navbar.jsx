@@ -99,11 +99,9 @@ export default function Navbar({
             className="flex items-center gap-1.5"
             whileHover={{ scale: 1.05 }}
           >
-            <div className="w-7 h-7 bg-gradient-to-br from-blue-500 to-purple-600 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-xs">GLJ</span>
-            </div>
+            <img src="/assets/logo-jerry.png" alt="Jerry" className="w-8 h-8 object-contain" />
             <span className="hidden sm:block font-semibold text-base tracking-tight">
-              资源导航
+              Jerry小站
             </span>
           </motion.div>
           </Link>

@@ -184,7 +184,7 @@ export default function ResourceGrid({ user }) {
                   <span className="text-blue-600 dark:text-blue-400">{currentCategoryName}</span>
                 </span>
               ) : (
-                '精选资源导航'
+                'Jerry小站'
               )}
             </h1>
             <p className="text-sm text-slate-500 dark:text-slate-400 mt-1 flex items-center gap-2">

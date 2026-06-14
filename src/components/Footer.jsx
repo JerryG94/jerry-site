@@ -11,7 +11,7 @@ const Footer = memo(function Footer() {
                         border-t border-slate-200/60 dark:border-slate-700/60">
       <div className="max-w-[1600px] mx-auto md:pl-64 px-4 md:px-6 h-10 flex items-center justify-between">
         <p className="text-xs text-slate-400 dark:text-slate-500">
-          © {currentYear} GLJ 资源导航 · All rights reserved.
+          © {currentYear} Jerry小站 · All rights reserved.
         </p>
         <p className="text-xs text-slate-400 dark:text-slate-500 flex items-center gap-1">
           Made with <Heart size={11} className="text-red-400" /> by Senior Developer

@@ -9,7 +9,7 @@ export default defineConfig(({ mode }) => ({
     ...(mode === 'development' ? [adminApi()] : [])
   ],
   // GitHub Pages base path
-  base: '/glj-resource-nav/',
+  base: '/jerry-site/',
   server: {
     port: 3000,
     host: true
