@@ -164,10 +164,15 @@ npm run dev
 
 ### GitHub Pages 自动部署
 
-项目已配置自动部署，推送 `main` 分支即自动更新线上：
+项目已配置自动部署，推送 `main` 分支即自动更新线上。
 
+**一键部署**（推荐）：
 ```bash
-# 本地开发完毕后
+# 双击 deploy.bat → 输入更新说明 → 自动完成
+```
+
+**手动部署**：
+```bash
 npm run build       # 构建到 docs/
 git add .
 git commit -m "更新网站内容"
