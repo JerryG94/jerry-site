@@ -8,8 +8,8 @@ export default defineConfig(({ mode }) => ({
     // Admin API middleware - dev only (configureServer hook)
     ...(mode === 'development' ? [adminApi()] : [])
   ],
-  // GitHub Pages base path
-  base: '/jerry-site/',
+  // Base path: root in dev, /jerry-site/ for GitHub Pages in production
+  base: mode === 'development' ? '/' : '/jerry-site/',
   server: {
     port: 3000,
     host: true
