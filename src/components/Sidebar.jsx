@@ -237,12 +237,24 @@ export default function Sidebar({ isOpen, onClose, user }) {
     if (!dragCat1 || dragCat1 === targetCat1) return
 
     const newOrder = [...liveCat1Order]
-    const fromIdx = newOrder.indexOf(dragCat1)
-    const toIdx = newOrder.indexOf(targetCat1)
-    if (fromIdx === -1 || toIdx === -1) return
+    let fromIdx = newOrder.indexOf(dragCat1)
+    let toIdx = newOrder.indexOf(targetCat1)
+
+    // Ensure items are in the order list (guard against missing entries)
+    if (fromIdx === -1) {
+      newOrder.push(dragCat1)
+      fromIdx = newOrder.length - 1
+    }
+    if (toIdx === -1) {
+      newOrder.push(targetCat1)
+      toIdx = newOrder.length - 1
+    }
+
+    if (fromIdx === toIdx) return
 
     const [moved] = newOrder.splice(fromIdx, 1)
-    newOrder.splice(toIdx, 0, moved)
+    const adjustedIdx = fromIdx < toIdx ? toIdx - 1 : toIdx
+    newOrder.splice(adjustedIdx, 0, moved)
     setLiveCat1Order(newOrder)
     setDragCat1(null)
     saveOrder()
@@ -277,12 +289,28 @@ export default function Sidebar({ isOpen, onClose, user }) {
     if (!dragCat2 || dragCat2.cat1 !== targetCat1 || dragCat2.cat2 === targetCat2) return
 
     const currentOrder = [...(liveCat2Order[targetCat1] || [])]
-    const fromIdx = currentOrder.indexOf(dragCat2.cat2)
-    const toIdx = currentOrder.indexOf(targetCat2)
-    if (fromIdx === -1 || toIdx === -1) return
+    let fromIdx = currentOrder.indexOf(dragCat2.cat2)
+    let toIdx = currentOrder.indexOf(targetCat2)
 
+    // Ensure dragged item is in the order list
+    if (fromIdx === -1) {
+      currentOrder.push(dragCat2.cat2)
+      fromIdx = currentOrder.length - 1
+    }
+    // Ensure target item is in the order list (it should be, but guard)
+    if (toIdx === -1) {
+      currentOrder.push(targetCat2)
+      toIdx = currentOrder.length - 1
+    }
+
+    if (fromIdx === toIdx) return
+
+    // Move: remove from old position, insert at new position
     const [moved] = currentOrder.splice(fromIdx, 1)
-    currentOrder.splice(toIdx, 0, moved)
+    // Adjust toIdx if we removed an item before it
+    const adjustedIdx = fromIdx < toIdx ? toIdx - 1 : toIdx
+    currentOrder.splice(adjustedIdx, 0, moved)
+
     setLiveCat2Order(prev => ({ ...prev, [targetCat1]: currentOrder }))
     setDragCat2(null)
     saveOrder()
