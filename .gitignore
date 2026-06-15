@@ -39,3 +39,6 @@ coverage
 start-admin.bat
 start-admin.sh
 deploy.bat
+
+# Local docs (not for GitHub)
+维护说明.md
