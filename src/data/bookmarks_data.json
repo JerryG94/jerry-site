@@ -2548,5 +2548,19 @@
     "category1": "开源项目展示",
     "category2": "AI工具",
     "id": "196"
+  },
+  {
+    "name": "agent-qa",
+    "url": "https://vostride.com",
+    "description": "自然语言 Web、Android 和 iOS 测试，支持 memidex 持久记忆、经验证的自我改进与可审查的运行证据。CLI/MCP；FSL-1.1-ALv2，模型及服务费用随用量变化。",
+    "tags": [
+      "AI",
+      "测试",
+      "CLI",
+      "MCP"
+    ],
+    "category1": "其他网站收藏",
+    "category2": "实用工具",
+    "id": "197"
   }
 ]
